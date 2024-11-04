@@ -7,4 +7,4 @@
 [DockerHub - `YOURLASTNAME-WOPro-Service`](place link here)
 
 ## Link to GitHub Actions Run Results Summary
-[Link to **working** workflow run results](haunspaw3/aunspaw-wopro-service)
+[Link to **working** workflow run results](https://github.com/WSU-kduncan/devops-assignment-2-3-haunspaw/actions/runs/11657452483/job/32455065957)
