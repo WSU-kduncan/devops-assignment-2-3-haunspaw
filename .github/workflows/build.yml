@@ -76,5 +76,5 @@ jobs:
           push: true
           # Pushing this to the wsu-gh-actions-demo repo in the sakahle project on DockerHub
           # uniquely tagged with the current commit hash.
-          #tags: wsukduncan/workpro-service:${{ github.sha }}
-          tags: wsukduncan/workpro-service:v1.0.0
+          #tags: haunspaw/workpro-service:${{ github.sha }}
+          tags: haunspaw/workpro-service:v1.0.0
